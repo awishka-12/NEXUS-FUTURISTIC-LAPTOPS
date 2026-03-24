@@ -26,4 +26,4 @@ Three.js: Powers the 3D laptop model and real-time assembly animations.
 
 Vanilla JavaScript (ES6+): Manages state for the shopping cart, filtering, and 3D rendering loops.
 AI Attribution
-Note: This project’s User Interface (UI) and layout architecture were developed with the assistance of AI. The AI helped bridge the gap between complex 3D rendering logic and modern web design principles to create a cohesive "Next-Gen" brand identity.
+Note: This project’s User Interface (UI) and layout architecture were developed with the assistance of AI
